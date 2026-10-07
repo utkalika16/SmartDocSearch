@@ -1,0 +1,4 @@
+Intelligent Traffic Signal Controller
+An intelligent traffic signal controller can use sensors to manage red, yellow and green lights.
+A pedestrian request can trigger a safe transition to red. Emergency detection can provide priority
+to emergency vehicles. Timers, interrupts and finite state machines help coordinate the controller.

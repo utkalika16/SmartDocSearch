@@ -1,0 +1,42 @@
+SMART DOCUMENT SEARCH SYSTEM - ENHANCED WORKING MODEL
+
+1. Open PowerShell in this project folder.
+2. Compile:
+   javac -d out src\*.java
+3. Test:
+   javac -cp out -d out test\TestAlgorithms.java
+   java -cp out TestAlgorithms
+4. Start web application:
+   java -cp out WebServer
+5. Open browser:
+   http://localhost:9090
+
+WEB FEATURES
+- Automatic document search and explainable ranking
+- Algorithm selection: Automatic, KMP, Rabin-Karp, Naive, Z-Function, Edit Distance, Suffix Array + LCP, Aho-Corasick
+- Compare Algorithms: actual System.nanoTime() measurements
+- Algorithm Guide: purpose, advantage, complexity, implementation status
+- Add a .txt document from the browser
+- DP Alignment Lab: Edit Distance, Needleman-Wunsch, Smith-Waterman
+
+IMPLEMENTED / LAB ALGORITHMS
+- Custom inverted index using hash table/postings
+- Naive pattern matching
+- KMP
+- Rabin-Karp with double modular hashing
+- Z-Function
+- Aho-Corasick (multi-pattern lab)
+- Levenshtein Edit Distance
+- Needleman-Wunsch
+- Smith-Waterman
+- Suffix Array + Kasai LCP
+- Custom insertion sort ranking
+
+COURSE-SCOPE EXTENSIONS SHOWN IN GUIDE
+- Interval DP
+- Bitmask DP / TSP
+- Tree DP / Rerooting
+These are labelled as course concepts/extensions, not falsely claimed as integrated search algorithms.
+
+NOTE
+The current runnable document ingestion remains TXT-based. PDF/DOCX/OCR are not claimed as implemented in this dependency-free version.

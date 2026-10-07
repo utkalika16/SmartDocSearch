@@ -1,0 +1,5 @@
+Network Flow and Project Scheduling
+The maximum flow problem uses a source, sink, capacities and flow conservation.
+Ford-Fulkerson repeatedly finds augmenting paths in a residual graph. Edmonds-Karp uses BFS.
+Dinic builds level graphs and blocking flows. Max-flow min-cut provides a correctness connection.
+Network flow can model bipartite matching, assignment and some scheduling problems.

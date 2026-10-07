@@ -1,0 +1,4 @@
+Renewable Energy Research
+Renewable energy includes solar, wind, hydroelectric and geothermal power.
+Energy storage helps balance intermittent generation. Smart grids use monitoring, optimization
+and control to coordinate supply and demand. Data analytics can improve forecasting and planning.

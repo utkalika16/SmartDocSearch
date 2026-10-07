@@ -1,0 +1,14 @@
+SMART DOCUMENT SEARCH SYSTEM
+
+1. Install JDK 17+.
+2. Open terminal in this folder.
+3. Compile:
+   javac -d out src/*.java
+4. Run:
+   java -cp out Main
+
+For algorithm tests:
+   javac -d out src/*.java test/TestAlgorithms.java
+   java -cp out TestAlgorithms
+
+The application automatically indexes all .txt files in docs/.

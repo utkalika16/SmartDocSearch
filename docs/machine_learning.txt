@@ -1,0 +1,5 @@
+Machine Learning Project Report
+Machine learning is a branch of artificial intelligence that learns patterns from data.
+A typical machine learning pipeline includes data collection, preprocessing, feature engineering,
+model training, validation, evaluation and deployment. Classification and regression are common
+supervised learning tasks. Neural networks can learn complex representations from large datasets.

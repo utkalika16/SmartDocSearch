@@ -1,0 +1,5 @@
+Database Indexing Report
+Database indexing improves the speed of record retrieval. A B-tree or B+ tree can support ordered
+searches and range queries. Hash indexing provides fast equality lookup. An index trades additional
+storage and update work for faster queries. Query optimization chooses access paths that reduce
+the amount of data scanned.

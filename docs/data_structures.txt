@@ -1,0 +1,5 @@
+Data Structures and Algorithms Notes
+Data structures organize information so algorithms can process it efficiently.
+Arrays, linked lists, stacks, queues, trees, hash tables and graphs are fundamental structures.
+Graph algorithms include breadth first search, depth first search, shortest paths and minimum spanning trees.
+String algorithms improve text processing and can reduce repeated brute-force scanning.
