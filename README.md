@@ -1,4 +1,3 @@
-
 # Smart Document Search System — DSA PBL
 
 ## 1. Project idea
@@ -141,3 +140,5 @@ The result shows the document, score, term coverage, KMP count, Rabin-Karp count
 - performance benchmark dashboard
 
 These are extensions, not claims about the current implementation.
+# SmartDocSearch
+An AI-powered document search system that enables semantic search, keyword matching, and intelligent document retrieval using NLP, embeddings, and machine learning for fast and accurate information discovery.
